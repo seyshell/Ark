@@ -7,7 +7,7 @@
             "IconURL": "https://i.imgur.com/At18wTt.png",
             "DisableIconText": false,
             "IconPosition": 0,
-            "IconTextColor": 8,
+            "IconTextColor": 1,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 6
@@ -19,7 +19,7 @@
                     "buttontext": "Welcome",
                     "title1": "Welcome to RedbackGamers",
                     "text1": "This is a friendly server \n ASA being in early access is buggy!\n\n\nCrashes Happen. Pls contact an Admin if you have problems.",
-                    "imageurl": "[img]https://i.imgur.com/At18wTt.png"
+                    "imageurl": "https://i.imgur.com/At18wTt.png"
                 }
             }
         ],
