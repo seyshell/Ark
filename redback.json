@@ -20,7 +20,15 @@
                     "title1": "Welcome to RedbackGamers",
                     "text1": "This is a friendly server \n ASA being in early access is buggy!\n\n\nCrashes Happen. Pls contact an Admin if you have problems.",
                     "imageurl": "https://i.imgur.com/At18wTt.png"
-                }
+                },
+               
+                    "tab2": {
+                        "layout": 1,
+                        "buttontext": "Plugins",
+                        "title1": "Plugin Information",
+                        "text1": "This server has plugins to enhance and make the game enjoyable \n\n\nSmalls Shop is accessed via F2\n\nQuests are available, with varied rewards.\n\nCheckStats /stats\nClaimReward /rewards \nCheckQuests /quests \nQuestDetails /quest \nCheckCompletedQuests /completed\n\nTransfer to Another Map is possible, use the commands /upload and/download\n\nMakeArkGreatAgain is also installed commands are\n Autofarm /farm \nOrp /setorp, /listorp, /orp\n\n\nPlease make sure you have linked your discord id to ingame id for bonuses and to use some parts of the plugins",
+                        "imageurl": "https://i.imgur.com/At18wTt.png"
+                    }
             }
         ],
         "links": [
