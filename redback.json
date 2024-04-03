@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Welcome to RedbackGamers",
+                    "title1": "Welcome to DownunderGamers",
                     "text1": "This is a friendly server \n ASA being in early access is buggy!\n\n\nCrashes Happen. Pls contact an Admin if you have problems.",
-                    "imageurl": "https://i.imgur.com/At18wTt.png"
+                    "imageurl": "https://imgur.com/a/lnxSeIr.png"
                 },
                
                     "tab2": {
@@ -27,7 +27,7 @@
                         "buttontext": "Plugins",
                         "title1": "Plugin Information",
                         "text1": "This server has plugins to enhance and make the game enjoyable \n\n\nSmalls Shop is accessed via F2\n\nQuests are available, with varied rewards.\n\nCheckStats /stats\nClaimReward /rewards \nCheckQuests /quests \nQuestDetails /quest \nCheckCompletedQuests /completed\n\nTransfer to Another Map is possible, use the commands /upload and/download\n\nMakeArkGreatAgain is also installed commands are\n Autofarm /farm \nOrp /setorp, /listorp, /orp\n\n\nPlease make sure you have linked your discord id to ingame id for bonuses and to use some parts of the plugins",
-                        "imageurl": "https://i.imgur.com/At18wTt.png"
+                        "imageurl": "https://imgur.com/OP8zzDu.png"
                     }
             }
         ],
@@ -35,20 +35,15 @@
             {
                 "link1": {
                     "text": "Discord",
-                    "url": "https://discord.gg/BEyMHP9mBZ"
+                    "url": "https://discord.gg/w7ehErrvqH"
                 }
             },
             {
                 "link2": {
                     "text": "WebPage",
-                    "url": "https://www.RedbackGamers.com.au"
+                    "url": "https://www.downundergamers.au"
                 }
-            },
-            {
-                "link3": {
-                    "text": "Mods",
-                    "url": "https://www.redbackgamers.com.au/page/80778-Mods"
-                }
+            }
             }
         ]
     }
