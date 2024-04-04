@@ -4,7 +4,7 @@
           "OpenButton": 4,
           "HideIcon": false,
           "HideIconAfter": 60,
-          "IconURL": "https://github.com/seyshell/Ark/blob/main/dug.psd%20outline.png",
+          "IconURL": "https://raw.githubusercontent.com/seyshell/Ark/main/dug.psd%20outline.png",
           "DisableIconText": false,
           "IconPosition": 0,
           "IconTextColor": 1,
