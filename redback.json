@@ -4,7 +4,7 @@
           "OpenButton": 4,
           "HideIcon": false,
           "HideIconAfter": 60,
-          "IconURL": "https://raw.githubusercontent.com/seyshell/Ark/main/dug.psd%20outline.png",
+          "IconURL": "https://raw.githubusercontent.com/seyshell/Ark/main/mggoutline.png",
           "DisableIconText": false,
           "IconPosition": 0,
           "IconTextColor": 1,
@@ -17,9 +17,9 @@
               "tab1": {
                   "layout": 1,
                   "buttontext": "Welcome",
-                  "title1": "Welcome to DownunderGamers",
+                  "title1": "Welcome to Meta-Gamers.com",
                   "text1": "This is a friendly server \n ASA being in early access is buggy!\n\n\nCrashes Happen. Pls contact an Admin if you have problems.",
-                  "imageurl": "https://imgur.com/CV8kcaB.png"
+                  "imageurl": "https://imgur.com/bss7JrE"
                 }
               },
               {
@@ -29,7 +29,7 @@
                       "buttontext": "Plugins",
                       "title1": "Plugin Information",
                       "text1": "This server has plugins to enhance and make the game enjoyable \n\n\nSmalls Shop is accessed via F2\n\nQuests are available, with varied rewards.\n\nCheckStats /stats\nClaimReward /rewards \nCheckQuests /quests \nQuestDetails /quest \nCheckCompletedQuests /completed\n\nTransfer to Another Map is possible, use the commands /upload and/download\n\nMakeArkGreatAgain is also installed commands are\n Autofarm /farm \nOrp /setorp, /listorp, /orp\n\n\nPlease make sure you have linked your discord id to ingame id for bonuses and to use some parts of the plugins",
-                      "imageurl": "https://imgur.com/CV8kcaB.png"
+                      "imageurl": "https://imgur.com/bss7JrE"
                     }
                   }
                 ],
@@ -37,13 +37,13 @@
           {
               "link1": {
                   "text": "Discord",
-                  "url": "https://discord.gg/w7ehErrvqH"
+                  "url": "https://discord.gg/7XkWdAbyQm"
                 }
               },
               {
               "link2": {
                   "text": "WebPage",
-                  "url": "https://www.downundergamers.au"
+                  "url": "www.meta-gamers.com"
                 }
               }
             ]
