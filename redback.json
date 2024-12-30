@@ -28,7 +28,7 @@
                       "layout": 1,
                       "buttontext": "Plugins",
                       "title1": "Plugin Information",
-                      "text1": "This server has plugins to enhance and make the game enjoyable \n\n\nSmalls Shop is accessed via F2\n\nQuests are available, with varied rewards.\n\nCheckStats /stats\nClaimReward /rewards \nCheckQuests /quests \nQuestDetails /quest \nCheckCompletedQuests /completed\n\nTransfer to Another Map is possible, use the commands /upload and/download\n\nMakeArkGreatAgain is also installed commands are\n Autofarm /farm \nOrp /setorp, /listorp, /orp\n\n\nPlease make sure you have linked your discord id to ingame id for bonuses and to use some parts of the plugins",
+                      "text1": "This server has plugins to enhance and make the game enjoyable \n\n\nThe WebShop is accessed via https://www.meta-gamers.com/shop \nPlugin Information can be found at ",
                       "imageurl": "https://imgur.com/bss7JrE"
                     }
                   }
