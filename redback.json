@@ -1,7 +1,9 @@
 {
-  "WBUI2": {
-      "settings": {
-          "OpenButton": 4,
+	"WBUI2":
+	{
+		"settings":
+		{
+		 "OpenButton": 4,
           "HideIcon": false,
           "HideIconAfter": 60,
           "IconURL": "https://raw.githubusercontent.com/seyshell/Ark/main/mggoutline.png",
@@ -11,8 +13,8 @@
           "OpenOnStart": true,
           "OpenOnStartOnlyNewPlayers": true,
           "UpdateInterval": 6
-      },
-      "tabs": [
+		},
+		"tabs": [
           {
               "tab1": {
                   "layout": 1,
@@ -23,8 +25,9 @@
                 }
               },
               {
-         "tab2": {
-         
+         "tab2": 
+{
+      
          "layout": 1,
                       "buttontext": "Shop",
                       "title1": "Shop Information",
@@ -43,7 +46,7 @@
                     }
                   }
                 ],
-      "links": [
+		"links": 
           {
               "link1": {
                   "text": "Discord",
@@ -57,5 +60,6 @@
                 }
               }
             ]
-          }
-        }
+		"version": 2
+	}
+}
