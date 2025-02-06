@@ -1,3 +1,4 @@
+
 {
   "WBUI2":
   {
@@ -65,11 +66,12 @@
         "imageurl": "https://raw.githubusercontent.com/seyshell/Ark/main/MGGOUTLINE.png",
         "content": [
           {
-            "title": "Your Play",
+            "title": "Playtime",
             "text": "At the heart of Meta-Gamers, we care.  We want you to be happy, have fun, and feel safe\nWe like to joke and laugh, after all, Small and Roo are aussies who like to poke fun at everything and everyone\nWe are international and love to connect and be a family, as such please join us in our chat, or ingame chat\nWe dont tolerate abuse, rascism or sexism, if this happens let Small know, she is a mamabear"
           }  
         ]
       }
+      
     ],
     "links": [
       {
@@ -78,13 +80,9 @@
       },
       {
         "text": "WebPage",
-        "url": "https://meta-gamers.com"
-      },
-      {
-        "text": "CurseForge",
-        "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+        "url": "https://www.meta-gamers.com"
       }
-    ],
+         ],
     "version": 2
   }
 }
