@@ -1,65 +1,90 @@
 {
-	"WBUI2":
-	{
-		"settings":
-		{
-		 "OpenButton": 4,
-          "HideIcon": false,
-          "HideIconAfter": 60,
-          "IconURL": "https://raw.githubusercontent.com/seyshell/Ark/main/mggoutline.png",
-          "DisableIconText": false,
-          "IconPosition": 0,
-          "IconTextColor": 1,
-          "OpenOnStart": true,
-          "OpenOnStartOnlyNewPlayers": true,
-          "UpdateInterval": 6
-		},
-		"tabs": [
+  "WBUI2":
+  {
+    "settings":
+    {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://raw.githubusercontent.com/seyshell/Ark/main/MGGOUTLINE.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://raw.githubusercontent.com/seyshell/Ark/main/MGGOUTLINE.png",
+        "content": [
           {
-              "tab1": {
-                  "layout": 1,
-                  "buttontext": "Welcome",
-                  "title1": "Welcome to Meta-Gamers.com",
-                  "text1": "This is a friendly server \n ASA being in early access is buggy!\n\n\nCrashes Happen. Pls contact an Admin if you have problems.",
-                  "imageurl": "https://imgur.com/bss7JrE"
-                }
-              },
-              {
-         "tab2": 
-{
-      
-         "layout": 1,
-                      "buttontext": "Shop",
-                      "title1": "Shop Information",
-                      "text1": "This server has a webshop that you can access via F5, the ArkShop Interface is F1, you can buy tokens with your points for the webstore. Generic Quests available through F8",
-                      "imageurl": "https://imgur.com/bss7JrE"
-                    }
-                  },
-              {
-             
-                  "tab3": {
-                      "layout": 1,
-                      "buttontext": "Plugins",
-                      "title1": "Plugin Information",
-                      "text1": "This server has plugins to enhance and make the game enjoyable \n\n\nThe WebShop is accessed via https://www.meta-gamers.com/shop \nPlugin Information can be found at https://www.meta-gamers.com/page/118777-Plugins",
-                      "imageurl": "https://imgur.com/bss7JrE"
-                    }
-                  }
-                ],
-		"links": 
+            "title1": "Welcome to Meta-Gamers.com",
+            "text1": "This is a friendly server \nMost of our banter occurs in discord game chat, please feel free to join.\n ASA being in early access is buggy!\n\n\nCrashes Happen. Pls contact an Admin if you have problems."
+            }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Settings",
+        "imageurl": "https://raw.githubusercontent.com/seyshell/Ark/main/MGGOUTLINE.png",
+        "content": [
           {
-              "link1": {
-                  "text": "Discord",
-                  "url": "https://discord.gg/7XkWdAbyQm"
-                }
-              },
-              {
-              "link2": {
-                  "text": "WebPage",
-                  "url": "www.meta-gamers.com"
-                }
-              }
-            ]
-		"version": 2
-	}
+            "title": "Settings:",
+            "text": "Our settings are:- \nHarvest 5x \nXP 2x Taming 45x, Many of the dino stats, are set by Omega. Baby Imprinting is boosted so that everything is imprinted."
+          }
+        ]
+      },
+      {
+        "layout": 3,
+        "buttontext": "Shop",
+        "imageurl": "https://i.imgur.com/cTIFiIs.png",
+        "content": [
+          {
+            "title": "Shop:",
+            "text": "Our basic Ark Shop is F1, this is very limited\n\nOur WebShop is accesses via F5, \nPlease ensure you get the !getconnectcode and add to your account at www.meta-gamer.com"
+          }  
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Plugins",
+        "imageurl": "https://raw.githubusercontent.com/seyshell/Ark/main/MGGOUTLINE.png",
+        "content": [
+          {
+            "title": "Plugins:",
+            "text": "We use a variety of Plugins on our servers.  These include:- \nArkShop\nLethalQuests\nLethalLoot\nTidyDams\nPointRewards"
+          }  
+        ]
+      },
+      {
+        "layout": 5,
+        "buttontext": "Community",
+        "imageurl": "https://raw.githubusercontent.com/seyshell/Ark/main/MGGOUTLINE.png",
+        "content": [
+          {
+            "title": "Your Play",
+            "text": "At the heart of Meta-Gamers, we care.  We want you to be happy, have fun, and feel safe\nWe like to joke and laugh, after all, Small and Roo are aussies who like to poke fun at everything and everyone\nWe are international and love to connect and be a family, as such please join us in our chat, or ingame chat\nWe dont tolerate abuse, rascism or sexism, if this happens let Small know, she is a mamabear"
+          }  
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/u3TggER7fW"
+      },
+      {
+        "text": "WebPage",
+        "url": "https://meta-gamers.com"
+      },
+      {
+        "text": "CurseForge",
+        "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+      }
+    ],
+    "version": 2
+  }
 }
